@@ -1,0 +1,2 @@
+list = [2, 0, 20, 100, 15]
+print(max(list))
